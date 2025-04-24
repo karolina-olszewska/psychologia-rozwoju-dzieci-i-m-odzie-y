@@ -221,4 +221,84 @@ Rozwój odbywa się **w wyraźnie odrębnych etapach (stadiach)**, z których ka
 | **ODBIERANIE WRAŻEŃ SMAKOWYCH I PAMIĘĆ SMAKOWA** | Rozwój kubków smakowych – reagowanie na słodki, gorzki smak | Reakcje mimiczne płodu na słodki lub gorzki smak płynu owodniowego | Noworodek preferuje smak słodki (np. mleko matki) |
 | **ODBIERANIE WRAŻEŃ SŁUCHOWYCH I PAMIĘĆ SŁUCHOWA** | Reakcja na dźwięki zewnętrzne od ok. 25. tygodnia | Przyspieszenie rytmu serca, ruchy płodu | Noworodek rozpoznaje głos matki i melodie słyszane przed narodzinami |
 | **ODBIERANIE WRAŻEŃ WZROKOWYCH** | Najpóźniej dojrzewający zmysł – od ok. 28. tygodnia | Reakcje na silne światło przez powłoki brzuszne | Po narodzinach – preferencja twarzy, kontrastu, jasnych punktów |
-| **REAKCJE EMOCJONALNE** | Układ limbiczny rozwija się intensywnie w trzecim trymestrze | Reakcje na stres matki, np. wzmożony ruch płodu | Noworodek reaguje emocjonalnie – płaczem, mimiką, ruchem |
+| **REAKCJE EMOCJONALNE** | Układ limbiczny rozwija się intensywnie w trzecim trymestrze | Reakcje na stres matki, np. wzmożony ruch płodu | Noworodek reaguje emocjonalnie – płaczem, mimiką, ruchem |  
+
+
+# Okres prenatalny i noworodkowy – uzupełnienie
+
+Źródła:
+- *Psychologia rozwoju człowieka* – Janusz Trempała (PWN)
+- *Psychologia rozwoju człowieka* – Brzezińska, Apelt, Ziółkowska
+- *Psychologia akademicka* – Strela, Idoliński (tom II)
+
+---
+
+## Znaczenie okresu prenatalnego
+
+- Okres prenatalny to **najbardziej dynamiczna faza rozwoju** – od zapłodnienia do porodu.
+- Kształtują się wszystkie podstawowe struktury ciała, układy narządowe i fundamenty funkcjonowania psychicznego.
+- Warunki prenatalne (dieta matki, stres, używki, opieka medyczna) mają **długotrwały wpływ na rozwój jednostki** – tzw. *programowanie prenatalne*.
+- Występuje już **zdolność do uczenia się** – płód reaguje na bodźce i zapamiętuje je.
+
+---
+
+## Znaczenie okresu noworodkowego
+
+- Trwa około **4 tygodnie po urodzeniu**.
+- Jest to faza **adaptacji do życia pozamacicznego** – gwałtowne zmiany środowiskowe (oddech, jedzenie, termoregulacja).
+- Noworodek posiada **zestaw odruchów wrodzonych**, które świadczą o funkcjonowaniu układu nerwowego i umożliwiają przetrwanie.
+
+---
+
+## Skala Apgar
+
+- Ocena noworodka w **1. i 5. minucie życia**.
+- Mierzy 5 parametrów:  
+  - **A** – appearance (kolor skóry),  
+  - **P** – pulse (tętno),  
+  - **G** – grimace (reakcja na bodźce),  
+  - **A** – activity (napięcie mięśniowe),  
+  - **R** – respiration (oddech).  
+- Każdy parametr: 0–2 pkt, maksymalnie 10 pkt.  
+- Wynik < 7 może wymagać interwencji medycznej.
+
+---
+
+## Odruchy noworodkowe
+
+| **Odruch** | **Opis** | **Znaczenie rozwojowe** |
+|-----------|----------|--------------------------|
+| **Ssakowy** | Ssanie w odpowiedzi na dotknięcie warg lub podniebienia | Umożliwia karmienie |
+| **Poszukiwania (Rooting)** | Obracanie głowy w kierunku bodźca dotykającego policzek | Pomaga odnaleźć pierś/mamkę |
+| **Chwytny (palcowy i podeszwowy)** | Zaciskanie dłoni/stóp przy ich podrażnieniu | Odruch pierwotnej ochrony i więzi |
+| **Moro** | Rozrzucenie ramion, wyprost nóg, następnie przyciągnięcie kończyn do tułowia przy nagłym bodźcu | Reakcja alarmowa, sprawdzian integracji neurologicznej |
+| **Toniczno-szyjny (ATOS)** | Wyprost kończyn po tej stronie, w którą zwrócona jest głowa | Wczesna koordynacja ruchów |
+| **Kroczenia (chodzenia)** | Symulowanie kroku przy podtrzymywaniu noworodka pionowo | Odruch przetrwalnikowy, zanika ok. 2 miesiąca |
+
+---
+
+## Rola doświadczeń z okresu prenatalnego i noworodkowego
+
+- **Podstawy przywiązania** – dziecko po narodzeniu potrafi rozpoznać głos i zapach matki (pamięć sensoryczna z życia płodowego).
+- **Początki regulacji emocji** – reakcje na głos matki, dotyk, zmiany rytmu kołysania.
+- **Podstawy relacyjności** – noworodek wykazuje preferencje społeczne (twarze, głos ludzki), co umożliwia rozwój więzi.
+
+---
+
+## Ciekawostki i kluczowe pojęcia
+
+- **Programowanie płodowe** – wpływ warunków prenatalnych na zdrowie i psychikę w dorosłości (np. stres prenatalny a podatność na depresję).
+- **Okres krytyczny** – etap życia, w którym wystąpienie określonego bodźca jest niezbędne do prawidłowego rozwoju (np. kontakt cielesny).
+- **Neuroplastyczność noworodka** – mózg dziecka jest wysoce plastyczny, zdolny do kompensacji nawet po urazach okołoporodowych.
+
+---
+
+## TL;DR
+
+- **Prenatalny** = fundamenty strukturalne i sensoryczne (mózg, zmysły, motoryka).
+- **Noworodkowy** = adaptacja + funkcjonowanie odruchowe i wczesna relacyjność.
+- **Apgar + odruchy** = kluczowe wskaźniki zdrowia i gotowości do życia poza łonem.
+
+
+
+
