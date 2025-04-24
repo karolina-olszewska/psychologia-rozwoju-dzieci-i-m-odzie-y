@@ -108,4 +108,104 @@
 
 - **Freud, Erikson** – psychoanaliza: rozwój przez konflikty wewnętrzne i etapy psychoseksualne
 - **Piaget** – poznawcza teoria: rozwój myślenia przez interakcję z otoczeniem
-- **Havighurst, Lewinson** – socjologia: zadania i role społeczne w cyklach życia
+- **Havighurst, Lewinson** – socjologia: zadania i role społeczne w cyklach życia  
+
+
+# Kluczowe pojęcia w psychologii rozwoju człowieka
+
+Źródła:
+- *Psychologia rozwoju człowieka* – Janusz Trempała (PWN)
+- *Psychologia rozwoju człowieka* – Brzezińska, Apelt, Ziółkowska
+- *Psychologia akademicka* – Strela, Idoliński (tom II)
+
+---
+
+## Zmiany ontogenetyczne
+
+Zmiany zachodzące w ciągu całego życia jednostki – od poczęcia aż po śmierć. Obejmują zarówno aspekty biologiczne, psychiczne, jak i społeczne. To one są głównym przedmiotem badań psychologii rozwoju.
+
+---
+
+## Zmiany ilościowe
+
+Zmiany, które można zmierzyć i wyrazić liczbowo. Dotyczą **wielkości, częstotliwości, zakresu** np. wzrostu, zasobu słownictwa, liczby wypowiadanych słów, czasu reakcji.
+
+---
+
+## Zmiany jakościowe
+
+Zmiany dotyczące **struktury, organizacji, sposobu funkcjonowania**. Oznaczają powstanie czegoś nowego, co nie istniało wcześniej, np. przejście od myślenia konkretnego do abstrakcyjnego (Piaget), rozwój teorii umysłu.
+
+---
+
+## Zmiany uniwersalne
+
+Zmiany wspólne **dla wszystkich ludzi**, niezależnie od kultury czy środowiska. Wynikają z dojrzewania biologicznego, np. nauka chodzenia, rozwój mowy.
+
+---
+
+## Zmiany wspólne (typowe)
+
+Zmiany charakterystyczne dla **grup osób**, np. dzieci w wieku przedszkolnym, nastolatków, dorosłych. Mogą się różnić w zależności od kultury, wychowania, systemu edukacyjnego.
+
+---
+
+## Zmiany indywidualne
+
+Zmiany, które są **unikalne dla danej jednostki**. Zależą od osobistych doświadczeń, środowiska, temperamentu, genetyki. Np. tempo nauki czy sposób rozwiązywania problemów.
+
+---
+
+## Ekwipotencjalność (ekwifalność)
+
+Różne warunki rozwojowe mogą prowadzić do **podobnych rezultatów rozwojowych**. Przykład: dzieci wychowywane w różnych warunkach (np. dom, adopcja, rodzina zastępcza) mogą osiągnąć podobny poziom dojrzałości społecznej.
+
+---
+
+## Ekwifinalność
+
+Podobne warunki początkowe mogą prowadzić do **różnych rezultatów rozwojowych**. Przykład: dzieci wychowywane w bardzo podobnych warunkach mogą wyrosnąć na bardzo różne osoby – jedna na lidera, druga na osobę wycofaną.
+
+---
+
+## Plastyczność zmian rozwojowych
+
+Zdolność jednostki do **zmiany kierunku rozwoju** pod wpływem doświadczeń, edukacji, wsparcia środowiska. Przykład: osoba z trudnym dzieciństwem może dzięki terapii osiągnąć dojrzałość emocjonalną i satysfakcję życiową.
+
+---
+
+## Relacyjność zmian
+
+Zmiany rozwojowe są **uwarunkowane relacjami z otoczeniem**. Rozwój nie zachodzi w izolacji – zależy od kontaktu z innymi ludźmi, środowiskiem, kulturą. Człowiek rozwija się w kontekście społecznym.
+
+---
+
+## Progresywność
+
+Rozwój prowadzi do **większego zróżnicowania, złożoności i integracji funkcji psychicznych**. Oznacza to, że wraz z wiekiem jednostka nabywa bardziej zaawansowane umiejętności i strategie działania.
+
+---
+
+## Ciągłość
+
+Rozwój zachodzi **stopniowo, bez wyraźnych przeskoków**. Każdy etap wynika z poprzedniego i przygotowuje grunt pod kolejny. Przykład: rozwój mowy jako płynne przechodzenie od gaworzenia do mówienia.
+
+---
+
+## Stadialność
+
+Rozwój odbywa się **w wyraźnie odrębnych etapach (stadiach)**, z których każdy ma swoje specyficzne cechy i granice czasowe. Przykład: teoria stadiów rozwoju poznawczego Piageta.
+
+---
+
+## TL;DR
+
+- **Ilościowe vs. jakościowe** – liczba vs. struktura
+- **Uniwersalne, wspólne, indywidualne** – zakres społeczny zmian
+- **Ekwifinalność/ekwifalność** – jedno źródło wiele skutków / wiele źródeł jeden skutek
+- **Plastyczność, relacyjność, progresywność** – zmienność, zależność od środowiska, kierunek rozwoju
+- **Ciągłość vs. stadialność** – płynność zmian vs. etapy  
+
+
+
+(
