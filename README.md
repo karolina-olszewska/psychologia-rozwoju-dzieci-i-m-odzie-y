@@ -208,4 +208,17 @@ Rozwój odbywa się **w wyraźnie odrębnych etapach (stadiach)**, z których ka
 
 
 
-(
+# Okres prenatalny i noworodkowy – tabela rozwoju
+
+| **Określona sfera rozwoju** | **Charakterystyka osiągnięć rozwojowych w okresie prenatalnym** | **Przykłady potwierdzające osiągnięcia / wskaźniki** | **Korzystanie z doświadczeń prenatalnych oraz ukształtowanych wówczas umiejętności** |
+|-----------------------------|------------------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------|
+| **MOTORYKA** | Aktywność ruchowa płodu | Przeciąganie się, ziewanie, obroty, kopanie, pływanie, podskakiwanie | Po urodzeniu noworodek kontynuuje prenatalne wzorce ruchowe |
+| **FUNKCJONALNE URUCHOMIENIE WSZYSTKICH NARZĄDÓW ZMYSŁÓW** | W okresie prenatalnym aktywują się wszystkie zmysły | Reakcje na bodźce świetlne, dźwiękowe i dotykowe | Noworodek wykazuje wrażliwość na bodźce sensoryczne |
+| **ODBIERANIE WRAŻEŃ DOTYKOWYCH I UCISKU ORAZ PAMIĘĆ DOTYKOWA** | Reakcje płodu na dotyk pojawiają się około 8. tygodnia ciąży | Ruchy głowy, kończyn w odpowiedzi na dotyk ściany macicy | Noworodek rozpoznaje kontakt fizyczny i wykazuje uspokojenie podczas dotyku |
+| **ODBIERANIE WRAŻEŃ BÓLOWYCH I PAMIĘĆ DOŚWIADCZEŃ BÓLOWYCH** | Układ nerwowy rejestruje bodźce bólowe od ok. 24. tygodnia | Zmiany rytmu serca i ruchliwości płodu w odpowiedzi na bodźce bólowe | Noworodki reagują na ból (np. szczepienie) grymasem twarzy i płaczem |
+| **ODBIERANIE WRAŻEŃ ZE ZMYSŁU RÓWNOWAGI (PROPRIOCEPCJI)** | Ruch płodu wpływa na rozwój układu przedsionkowego | Płód zmienia pozycję, kołysze się w płynie owodniowym | Noworodek reaguje na zmianę pozycji ciała i ruch (uspokaja się przy kołysaniu) |
+| **ODBIERANIE WRAŻEŃ ZAPACHOWYCH I PAMIĘĆ ZAPACHÓW** | Receptory węchowe aktywują się ok. 28. tygodnia | Reakcje na zapachy (np. wód płodowych) | Noworodek rozpoznaje zapach matki i preferuje go |
+| **ODBIERANIE WRAŻEŃ SMAKOWYCH I PAMIĘĆ SMAKOWA** | Rozwój kubków smakowych – reagowanie na słodki, gorzki smak | Reakcje mimiczne płodu na słodki lub gorzki smak płynu owodniowego | Noworodek preferuje smak słodki (np. mleko matki) |
+| **ODBIERANIE WRAŻEŃ SŁUCHOWYCH I PAMIĘĆ SŁUCHOWA** | Reakcja na dźwięki zewnętrzne od ok. 25. tygodnia | Przyspieszenie rytmu serca, ruchy płodu | Noworodek rozpoznaje głos matki i melodie słyszane przed narodzinami |
+| **ODBIERANIE WRAŻEŃ WZROKOWYCH** | Najpóźniej dojrzewający zmysł – od ok. 28. tygodnia | Reakcje na silne światło przez powłoki brzuszne | Po narodzinach – preferencja twarzy, kontrastu, jasnych punktów |
+| **REAKCJE EMOCJONALNE** | Układ limbiczny rozwija się intensywnie w trzecim trymestrze | Reakcje na stres matki, np. wzmożony ruch płodu | Noworodek reaguje emocjonalnie – płaczem, mimiką, ruchem |
